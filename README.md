@@ -1,7 +1,7 @@
 # PROFIT PREDICTOR 🚀
 *Machine Learning for Seasonal Sales & Profit Optimization*
 
-![Data Analysis & ML](https://www.freepik.com/premium-ai-image/blue-background-with-upward-arrow-digital-graph-stock-market-growth-financial-growth-business-performance-concept_285530160.htm)
+![Data Analysis & ML](https://plus.unsplash.com/premium_photo-1681487769650-a0c3fbaed85a?q=80&w=2155&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 
 ---
