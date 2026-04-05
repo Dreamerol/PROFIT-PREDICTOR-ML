@@ -1,7 +1,7 @@
 # PROFIT PREDICTOR 📊
 *Machine Learning for Seasonal Sales & Profit Optimization*
 
-![Data Analysis and ML]([[https://pin.it/301zj6LfD](https://www.pinterest.com/pin/8162843069657531/))](https://pin.it/5jumWv3B3)
+![Data Analysis and ML]((https://github.com/Dreamerol/Dreamerol/blob/4b9fa21e23cac25bfe295a5e45635e5cdada14ec/Sajt.jpg))
 
 ---
 
