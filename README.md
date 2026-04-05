@@ -3,7 +3,7 @@
 
 ![Data Analysis and ML](https://github.com/Dreamerol/Dreamerol/blob/4b9fa21e23cac25bfe295a5e45635e5cdada14ec/Sajt.jpg)
 
-
+---
 
 ## Project Overview
 **PROFIT PREDICTOR**  is a machine learning project designed to analyze **seasonal sales trends** and identify **opportunities to maximize the profit**. By using ML models, learning from the historical data, the project predicts the future profit and potential losses. By leveraging historical sales data, the project predicts **high-demand periods**, suggests **optimized promotions**, and provides actionable strategies for smarter business decisions.
