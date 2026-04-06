@@ -6,7 +6,7 @@
 
 
 <h1 align="center">🚀 PROFIT PREDICTOR – ML-Driven Sales Forecasting</h1>
-<p align="center">Predicting trends, maximizing profits, and delivering actionable insights</p>
+<p align="center">## Predicting trends, maximizing profits, and delivering actionable insights</p>
 
 
 ---
