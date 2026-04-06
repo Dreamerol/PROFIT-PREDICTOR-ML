@@ -3,10 +3,7 @@
 
 ![Data Analysis and ML](https://github.com/Dreamerol/Dreamerol/blob/4b9fa21e23cac25bfe295a5e45635e5cdada14ec/Sajt.jpg)
 
-<!-- ================= HEADER BANNER ================= -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/banner-placeholder.png" alt="PROFIT PREDICTOR Banner" width="800"/>
-</p>
+
 
 <h1 align="center">🚀 PROFIT PREDICTOR – ML-Driven Sales Forecasting</h1>
 <p align="center">Predicting trends, maximizing profits, and delivering actionable insights</p>
