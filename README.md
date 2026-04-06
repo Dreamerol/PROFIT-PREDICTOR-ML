@@ -21,7 +21,6 @@
 
 </div>
 
-
 ---
 
 ## 🚀 Project Overview
@@ -34,6 +33,19 @@ In a world where businesses generate massive amounts of data every single day, o
 
 This project transforms raw data into **insightful predictions**, allowing businesses to make **data-driven decisions**, optimize revenue, and plan for growth.
 
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT-Portfolio_Ready-0A66C2?style=flat-square&logo=appveyor&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCUS-Profit_Predictor-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA-ML_Model-ff69b4?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/DESIGN-Data_Driven-success?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/LEVEL-Junior_Developer-informational?style=flat-square&logo=github&logoColor=white" />
+
+</div>
+
 ---
 
 ## 💎 Key Features
@@ -45,6 +57,19 @@ This project transforms raw data into **insightful predictions**, allowing busin
 - 📊 **Business Insights:** Provides actionable recommendations for decision-making.  
 
 ---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT-Portfolio_Ready-0A66C2?style=flat-square&logo=appveyor&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCUS-Profit_Predictor-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA-ML_Model-ff69b4?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/DESIGN-Data_Driven-success?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/LEVEL-Junior_Developer-informational?style=flat-square&logo=github&logoColor=white" />
+
+</div>
+
+---
+
 
 ## 💻 Tech Stack
 
