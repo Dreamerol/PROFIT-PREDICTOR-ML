@@ -1,4 +1,4 @@
-# PROFIT PREDICTOR 📊
+<h1 align="center">📈 ML MODEL FOR SALES PREDICTION</h1>
 ## *Machine Learning for Seasonal Sales & Profit Optimization*
 
 ![Data Analysis and ML](https://github.com/Dreamerol/Dreamerol/blob/4b9fa21e23cac25bfe295a5e45635e5cdada14ec/Sajt.jpg)
