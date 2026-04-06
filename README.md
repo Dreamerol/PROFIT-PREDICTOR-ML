@@ -8,14 +8,6 @@
 <h1 align="center">🚀 PROFIT PREDICTOR – ML-Driven Sales Forecasting</h1>
 <p align="center">Predicting trends, maximizing profits, and delivering actionable insights</p>
 
----
-<!-- ================= HEADER BANNER ================= -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/banner-placeholder.png" alt="PROFIT PREDICTOR Banner" width="800"/>
-</p>
-
-<h1 align="center">🚀 PROFIT PREDICTOR – ML-Driven Sales Forecasting</h1>
-<p align="center">Predicting trends, maximizing profits, and delivering actionable insights</p>
 
 ---
 
