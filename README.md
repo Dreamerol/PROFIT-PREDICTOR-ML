@@ -111,7 +111,7 @@ This project transforms raw data into **insightful predictions**, allowing busin
 
 
 
-<h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
+<h2 align="center">🖥️ Tech Stack</h2>
 
 
 <p align="center">
