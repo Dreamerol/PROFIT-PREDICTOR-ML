@@ -9,27 +9,39 @@
 
 
 
----
 
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
-  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
-</p>
+<br>
 
 
----
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+
+<img
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
+width="100%"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+
+</a>
+
+</div>
+
+
+
+
+
+
+
+<br>
+
+
+
+
 
 
 ## 🚀 Project Overview
@@ -46,26 +58,6 @@ This project transforms raw data into **insightful predictions**, allowing busin
 ---
 
 
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
-  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
-</p>
-
-
-
----
 
 
 
@@ -87,60 +79,12 @@ This project transforms raw data into **insightful predictions**, allowing busin
 
 
 
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
-  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
-</p>
-
-
-
-
-
-
-
-
----
-
-
 ## ⚙ How It Works
 
 1. Load **historical sales data**.  
 2. Analyze **seasonal patterns and trends** in sales.  
 3. Apply **ML models** for profit prediction using product categorization.  
 4. Generate **actionable business decisions** to boost profit.  
-
-
-
----
-
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
-  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
-</p>
 
 
 
@@ -164,27 +108,6 @@ This project transforms raw data into **insightful predictions**, allowing busin
 ---
 
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
-  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
-</p>
-
-
-
----
-
-
 
 
 ## 🧠 Key Skills
@@ -196,39 +119,6 @@ This project transforms raw data into **insightful predictions**, allowing busin
 - **Data Visualization**  
 
 
-
----
-
-
-
-
-<h2 align="center">🖥️ Tech Stack</h2>
-
-
-<p align="center">
-
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
-  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-
-</p>
 
 
 
