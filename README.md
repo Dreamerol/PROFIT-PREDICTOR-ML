@@ -1,6 +1,6 @@
 
 
-<h1 align="center">📈 𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 — 𝗦𝗔𝗟𝗘𝗦 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗜𝗢𝗡 𝗠𝗢𝗗𝗘𝗟</h1>
+<h1 align="center">📈 𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 - 𝗦𝗔𝗟𝗘𝗦 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗜𝗢𝗡 𝗠𝗢𝗗𝗘𝗟</h1>
 
 ## <p align="center"><strong><em>Predicting trends, maximizing profits, and delivering actionable insights</em></strong></p>
 
