@@ -5,7 +5,7 @@
 ## <p align="center"><strong><em>Predicting trends, maximizing profits, and delivering actionable insights</em></strong></p>
 
 
-![Data Analysis and ML](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Sajt.jpg)
+[![Data Analysis and ML](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Sajt.jpg)](https://dreamerol.github.io/APPLIED-AI-ENGINEER/)
 
 
 
