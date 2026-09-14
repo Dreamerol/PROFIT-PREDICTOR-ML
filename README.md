@@ -1,5 +1,14 @@
 
 
+
+
+
+
+
+
+
+
+
 <h1 align="center">📈 𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 - 𝗦𝗔𝗟𝗘𝗦 𝗠𝗢𝗗𝗘𝗟</h1>
 
 ## <p align="center"><strong><em>Predicting trends, maximizing profits, delivering insights.</em></strong></p>
