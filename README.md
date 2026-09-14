@@ -172,6 +172,11 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="LEFT">
+
+
+
+<div align="LEFT">
 
 
 
@@ -261,10 +266,23 @@ This project transforms raw data into **insightful predictions**, allowing busin
 
 
 
+</div>
+
+</div>
+
+
+
+
+
 
 
 <br>
 <br>
+
+
+
+
+
 
 
 ---
